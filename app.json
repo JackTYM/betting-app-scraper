@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Bet Loader",
+    "slug": "bet-loader",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.jacksonkyarger.betloader"
+    },
+    "android": {
+      "package": "com.jacksonkyarger.betloader"
+    },
+    "plugins": [
+      "expo-notifications"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+node_modules/
+dist/
+.dev.vars
+.wrangler/
+.env
+*.local
+.claude/
+.idea/
+.expo/
+worker-configuration.d.ts
+tmp/
